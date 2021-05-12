@@ -1,0 +1,12 @@
+
+J
+java:S1481"-Remove this unused "mazeGame" local variable.(¡¤Ž’8½žÀè‹/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êˆ¿¤úÿÿÿÿ8Î²çç‹/
+]
+java:S2259"AA "NullPointerException" could be thrown; "amf" is nullable here.(ŸËõB8ÜÊ€è‹/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìºéÚ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(£Ÿç„úÿÿÿÿ8Î²çç‹/
+Y
+java:S1854"<Remove this useless assignment to local variable "mazeGame".(¡¤Ž’8½žÀè‹/
+|
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "mazeGame".(ŸËõB8©º„è‹/

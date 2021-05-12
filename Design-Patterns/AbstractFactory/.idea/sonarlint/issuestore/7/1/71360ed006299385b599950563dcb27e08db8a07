@@ -1,0 +1,12 @@
+
+y
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "wall".(ÊúéÇ8‹«³æ‹/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á–Ì“
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²Ë»W8à×ıæ‹/
+y
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "door".(ì‘÷¶8êÛ¶æ‹/
+y
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "room".(Ï‰°æ8–”µæ‹/
+y
+java:S1488	"\Immediately return this expression instead of assigning it to the temporary variable "maze".(Ùµá8’±æ‹/
